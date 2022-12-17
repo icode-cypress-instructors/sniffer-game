@@ -1,0 +1,10 @@
+.player{
+    background-image: url(./sniffer_25.png);
+    width:160px;
+    height:100px;
+}
+
+body{
+    background-image: url(./grass_template2.jpeg);
+    width:100%;
+}
